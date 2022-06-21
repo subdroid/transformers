@@ -1,8 +1,0 @@
-_T=20220621_15:32:45_21078	 pip install -e .
-_T=20220621_15:33:00_21156	 pip install -e .
-_T=20220621_15:33:03_21078	 git add .
-_T=20220621_15:33:09_21156	 source ../virt/bin/activate
-_T=20220621_15:36:19_21078	 git commit -m "first commit"
-_T=20220621_15:36:25_21078	 git push]
-_T=20220621_15:37:06_21078	 git push
-_T=20220621_15:39:34_21078	 vim .gitignore
